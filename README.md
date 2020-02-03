@@ -29,9 +29,9 @@
  
  3. To take sample images of the palm, click on the pop-up window, display your palm, and press the p key to save images to the Palm folder. Some examples on what angles to display your palm are listed below:
  
- ![](https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309651.jpg | width=48) ![Palm 1](Palm/palm0.75012501246309652.jpg) ![Palm 1](Palm/palm0.75012501246309653.jpg)
- 
- <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309651.jpg" width="48">
+ <p align="center">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309651.jpg" width="48">
+ </p>
  
    
  
