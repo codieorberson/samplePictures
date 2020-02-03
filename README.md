@@ -27,7 +27,7 @@
 
  2. After running the previous command, a pop-up window will appear displaying your webcam's live feed
  
- 3. To take sample images of the fist, click on the pop-up window, display your fist, and press the f key to save images to the Fist folder. Some examples on what angles to display your Fist are listed below:
+ 3. To take sample images of the fist, click on the pop-up window, display your fist, and press the f key to save the image to the Fist folder. Some examples on what angles to display your Fist are listed below:
  
  <p align="center">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309651.jpg" width="150" height="150">
@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309656.jpg" width="150" height="150">
  </p>
  
- 4. To take sample images of the palm, click on the pop-up window, display your palm, and press the p key to save images to the Palm folder. Some examples on what angles to display your Palm are listed below:
+ 4. To take sample images of the palm, click on the pop-up window, display your palm, and press the p key to save the image to the Palm folder. Some examples on what angles to display your Palm are listed below:
  
  <p align="center">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309651.jpg" width="150" height="150">
