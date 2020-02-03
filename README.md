@@ -36,8 +36,17 @@
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309654.jpg" width="150" height="150">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309655.jpg" width="150" height="150">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309656.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309657.jpg" width="150" height="150">
  </p>
  
-   
+ 4. To take sample images of the palm, click on the pop-up window, display your palm, and press the p key to save images to the Palm folder. Some examples on what angles to display your Palm are listed below:
+ 
+ <p align="center">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309651.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309652.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309653.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309654.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309655.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309656.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309657.jpg" width="150" height="150">
+ </p>  
  
