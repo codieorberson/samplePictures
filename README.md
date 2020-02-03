@@ -22,12 +22,16 @@
 ### Running the snap_pics.py file
 
  Follow these steps to run the snap_pics.py file and to accurately provide sample images:
-
- 1. Run `python snap_pics.py`.
-
- 2. After running the previous command, a pop-up window will appear displaying your webcam's live feed
  
- 3. To take sample images of the fist, click on the pop-up window, display your fist, and press the f key to save the image to the Fist folder. Some examples on what angles to display your Fist are listed below:
+ 1. Open a command prompt and run  `git clone https://github.com/codieorberson/samplePictures`
+ 
+ 2. Run `cd samplePictures`
+
+ 3. Run `python snap_pics.py`
+
+ 4. After running the previous command, a pop-up window will appear displaying your webcam's live feed
+ 
+ 5. To take sample images of the fist, click on the pop-up window, display your fist, and press the f key to save the image to the Fist folder. Some examples on what angles to display your Fist are listed below:
  
  <p align="center">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309651.jpg" width="150" height="150">
@@ -39,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309656.jpg" width="150" height="150">
  </p>
  
- 4. To take sample images of the palm, click on the pop-up window, display your palm, and press the p key to save the image to the Palm folder. Some examples on what angles to display your Palm are listed below:
+ 6. To take sample images of the palm, click on the pop-up window, display your palm, and press the p key to save the image to the Palm folder. Some examples on what angles to display your Palm are listed below:
  
  <p align="center">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309651.jpg" width="150" height="150">
@@ -51,5 +55,5 @@
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309656.jpg" width="150" height="150">
  </p>  
  
- 5. When finished taking approximately 50 pictures of each gesture, hit ESC to exit the system. Thank you very much!
+ 7. When finished taking approximately 50 pictures of each gesture, hit ESC to exit the system. Thank you very much!
  
