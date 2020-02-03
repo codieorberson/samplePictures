@@ -29,7 +29,7 @@
  
  3. To take sample images of the palm, click on the pop-up window, display your palm, and press the p key to save images to the Palm folder. Some examples on what angles to display your palm are listed below:
  
- ![Palm 1](Palm/palm0.75012501246309651.jpg =50x50) ![Palm 1](Palm/palm0.75012501246309652.jpg) ![Palm 1](Palm/palm0.75012501246309653.jpg)
+ ![Palm 1](Palm/palm0.75012501246309651.jpg | width=50) ![Palm 1](Palm/palm0.75012501246309652.jpg) ![Palm 1](Palm/palm0.75012501246309653.jpg)
  
    
  
