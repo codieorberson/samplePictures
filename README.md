@@ -32,6 +32,7 @@
  <p align="center">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309651.jpg" width="150" height="150">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309652.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.93189250398510431.jpg" width="150" height="150">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309653.jpg" width="150" height="150">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309654.jpg" width="150" height="150">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309655.jpg" width="150" height="150">
@@ -45,6 +46,7 @@
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309652.jpg" width="150" height="150">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309653.jpg" width="150" height="150">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309654.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.93189250398510431.jpg" width="150" height="150">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309655.jpg" width="150" height="150">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309656.jpg" width="150" height="150">
  </p>  
