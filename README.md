@@ -51,3 +51,5 @@
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309656.jpg" width="150" height="150">
  </p>  
  
+ 5. When finished taking approximately 50 pictures of each gesture, hit ESC to exit the system. Thank you very much!
+ 
