@@ -47,6 +47,5 @@
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309654.jpg" width="150" height="150">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309655.jpg" width="150" height="150">
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309656.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309657.jpg" width="150" height="150">
  </p>  
  
