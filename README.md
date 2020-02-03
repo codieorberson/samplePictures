@@ -25,7 +25,7 @@
 
  1. Run `python snap_pics.py`.
 
- 2. After running the previous command, a pop-up window will appear display your webcam's live feed
+ 2. After running the previous command, a pop-up window will appear displaying your webcam's live feed
  
  3. To take sample images of the fist, click on the pop-up window, display your fist, and press the f key to save images to the Fist folder. Some examples on what angles to display your Fist are listed below:
  
