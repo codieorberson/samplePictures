@@ -1,4 +1,5 @@
 import cv2
+import os
 from random import seed
 from random import random
 import time
@@ -11,6 +12,12 @@ fist_img_counter = 1
 
 seed(time) #Generating random number
 img_name = str(random())
+
+if not os.path.exists("Fists/"):
+    os.mkdir("Fists")
+
+if not os.path.exists("Palms/"):
+    os.mkdir("Palms")
 
 while True:
     ret, frame = cam.read()
@@ -27,14 +34,14 @@ while True:
 
     elif k == ord('f') or k == ord('F'):
         # f || F pressed
-        final_img_name = "Fist/fist{0}{1}.jpg".format(img_name, fist_img_counter)
+        final_img_name = "Fists/fist{0}{1}.jpg".format(img_name, fist_img_counter)
         cv2.imwrite(final_img_name, frame)
         print("{} saved!".format(final_img_name))
         fist_img_counter += 1
 
     elif k == ord('p') or k == ord('P'):
         # p || P pressed
-        final_img_name = "Palm/palm{0}{1}.jpg".format(img_name, palm_img_counter)
+        final_img_name = "Palms/palm{0}{1}.jpg".format(img_name, palm_img_counter)
         cv2.imwrite(final_img_name, frame)
         print("{} saved!".format(final_img_name))
         palm_img_counter += 1
