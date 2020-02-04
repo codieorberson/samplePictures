@@ -34,26 +34,26 @@
  5. To take sample images of the fist, click on the pop-up window, display your fist, and press the f key to save the image to the Fist folder. Some examples on what angles to display your Fist are listed below:
  
  <p align="center">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309651.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309652.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.93189250398510431.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309653.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309654.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309655.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Fist/fist0.75012501246309656.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/fist0.75012501246309651.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/fist0.75012501246309652.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/fist0.93189250398510431.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/fist0.75012501246309653.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/fist0.75012501246309654.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/fist0.75012501246309655.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/fist0.75012501246309656.jpg" width="150" height="150">
  </p>
  
  6. To take sample images of the palm, click on the pop-up window, display your palm, and press the p key to save the image to the Palm folder. Some examples on what angles to display your Palm are listed below:
  
  <p align="center">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309651.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309652.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309653.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.93189250398510432.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.93189250398510431.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309655.jpg" width="150" height="150">
-    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/Palm/palm0.75012501246309656.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/palm0.75012501246309651.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/palm0.75012501246309652.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/palm0.75012501246309653.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/palm0.93189250398510432.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/palm0.93189250398510431.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/palm0.75012501246309655.jpg" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/palm0.75012501246309656.jpg" width="150" height="150">
  </p>  
  
- 7. When finished taking approximately 50 pictures of each gesture, hit ESC to exit the system. Thank you very much!
+ 7. When finished taking approximately 35-40 pictures of each gesture, hit ESC to exit the system. Thank you very much!
  
