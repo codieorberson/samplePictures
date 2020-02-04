@@ -55,5 +55,7 @@
     <img src="https://raw.githubusercontent.com/codieorberson/samplePictures/master/readme_pics/palm0.75012501246309656.jpg" width="150" height="150">
  </p>  
  
- 7. When finished taking approximately 35-40 pictures of each gesture, hit ESC to exit the system. Thank you very much!
+ 7. When finished taking approximately 35-40 pictures of each gesture, hit ESC to exit the system.
+ 
+ 8. Then hit the windows key and type `\\slate\CLASS\CSC-450\001\_Shared` . Please put your new fist images in the fist folder and palm images in the palm folder. Thank you!
  
